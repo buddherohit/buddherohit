@@ -1,110 +1,115 @@
-<h1 align="center">Rohit Buddhe</h1>
+<h1 align="center">Hi 👋, I'm Rohit Buddhe</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | Full Stack Engineer in Progress | Problem Solver
+💻 Frontend Developer • ⚛️ React Enthusiast • 🚀 Future Software Engineer
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rohit-buddhe">
-    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Buddhe-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:rohitbuddhe564@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.leetcode.com/rohit-buddhe">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Spring+Boot+Developer;DSA+%7C+Problem+Solver;Turning+Ideas+Into+Reality+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=buddherohit&label=Profile%20Views&style=flat-square&color=blue"/>
+  <img src="https://img.shields.io/github/followers/buddherohit?style=for-the-badge&logo=github&color=black" />
+  <img src="https://img.shields.io/github/stars/buddherohit?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=buddherohit&label=Profile+Views&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## 🧑‍💼 Professional Summary
-Passionate and detail-oriented **Frontend Developer** with strong foundations in **JavaScript, React, and modern web technologies**.  
-Currently expanding into **Full Stack Development using Spring Boot** and improving problem-solving skills through **DSA**.
+## 🧑‍💼 About Me
 
-💡 Focused on building **scalable, user-centric applications** and preparing for **software engineering roles in top tech companies**.
+✨ Passionate **Frontend Developer** with a strong focus on building **scalable and user-friendly applications**.  
+🚀 Currently transitioning into **Full Stack Development (React + Spring Boot)**.  
+🎯 Dedicated to mastering **DSA and real-world project development**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🌐 Connect With Me
 
-### 👨‍💻 Languages
-`C` `C++` `Java` `Python` `JavaScript`
+<p align="center">
+<a href="https://linkedin.com/in/rohit-buddhe">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://instagram.com/official_rohit_45">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+<a href="https://www.leetcode.com/rohit-buddhe">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+</a>
+<a href="mailto:rohitbuddhe564@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
 
-### 🌐 Frontend
-`HTML` `CSS` `React JS`
+---
 
-### ⚙️ Backend
-`Spring Boot` `Node.js`
+## ⚡ Tech Stack
 
-### 🗄️ Database
-`MySQL`
-
-### 🔧 Tools & Platforms
-`Git` `GitHub` `Android Studio`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,python,c,cpp,mysql,git,android,php&perline=7" />
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🔐 Women Safety Application  
+### 🚺 Women Safety Application  
 🔗 https://github.com/buddherohit/Women-Safety  
 
-**Description:**  
-A real-time safety application designed to enhance women's security with quick emergency response features.
-
-**Key Features:**
-- 🚨 Emergency SOS Alert  
-- 📍 Live Location Sharing  
-- ⚡ Fast and intuitive interface  
-
-**Tech Stack:**  
-`Flutter` `Firebase` `Android`
+💡 A smart safety solution with:
+- 🚨 Instant SOS Alerts  
+- 📍 Real-time Location Tracking  
+- ⚡ Fast Emergency Access  
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddherohit&show_icons=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddherohit&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=buddherohit&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2FF&icon_color=00C2FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddherohit&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Coding Activity
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddherohit&theme=minimal"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddherohit&theme=tokyo-night&hide_border=true&line=00C2FF&point=FFFFFF"/>
 </p>
 
 ---
 
-## 🎯 Career Goals
-- ✔ Master Full Stack Development (React + Spring Boot)
-- ✔ Solve 300+ DSA Problems (LeetCode)
-- ✔ Build Production-Level Projects
-- ✔ Secure Internship (2026)
+## 🧠 Current Focus
+
+- ⚛️ Advanced React Development  
+- 🌱 Backend with Spring Boot  
+- 📊 Data Structures & Algorithms  
 
 ---
 
-## 🏆 Strengths
-- 💡 Problem Solving Mindset  
-- ⚡ Fast Learner  
-- 🤝 Team Collaboration  
-- 🔍 Attention to Detail  
+## 🏆 Vision 2026
+
+- 🚀 Crack Product-Based Company  
+- 💼 Get Internship Opportunity  
+- 🔥 Build Scalable Full Stack Projects  
 
 ---
 
-## 💬 Developer Philosophy
-> "Clean code always looks like it was written by someone who cares."
+## 💬 Dev Quote
+
+> "Code is not just syntax — it's a way to solve real-world problems."
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 <p align="center">
-📌 Open to Internship Opportunities | Let’s Connect & Build 🚀
+⭐ If you like my work, consider giving a star — it means a lot! 🚀
 </p>
