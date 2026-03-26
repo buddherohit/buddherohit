@@ -20,7 +20,7 @@
 
 ✨ Passionate **Frontend Developer** with a strong focus on building **scalable and user-friendly applications**.  
 🚀 Currently transitioning into **Full Stack Development (React + Spring Boot)**.  
-🎯 Dedicated to mastering **DSA and real-world project development**.
+🎯 Dedicated to mastering **DSA and real-World project development**.
 
 ---
 
